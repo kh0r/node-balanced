@@ -1,0 +1,13 @@
+{
+  "name": "node-balanced",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Fancy application for load balanced test",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "main": "app.js",
+  "dependencies": {
+    "redis": "^0.12.1"
+  }
+}
