@@ -1,6 +1,6 @@
 {
   "name": "node-balanced",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "description": "Fancy application for load balanced test",
   "keywords": [],
